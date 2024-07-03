@@ -25,3 +25,9 @@ Predictive Modeling: To develop RandomForestClassifier, XGBoost, and LogisticReg
 # Running on Google Colab
 
 Download the project, execute each cell in the notebook sequentially for running.
+
+# Excel Dashabord
+
+![alt text](https://github.com/wenjuanhuang2023/HR-EAD-Prediction/blob/master/HR-dashboard-home.png)
+
+![alt text](https://github.com/wenjuanhuang2023/HR-EAD-Prediction/blob/master/HR-dashboard-left.png)
